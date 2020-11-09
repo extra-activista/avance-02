@@ -60,6 +60,12 @@ Chile es atravesado por muchas condiciones climáticas diferentes, lo que result
 1. [Extractivas en transformación por la resistencia territorial en Chile: Giro 3 V (Verdes, Veraces y Valorativas)](https://scielo.conicyt.cl/pdf/polis/v16n48/0718-6568-polis-16-48-00291.pdf)
 2. Observación: no todo los territorios en conflicto son territorios indígenas, considerar para la gráfica (usar íconos)
 
+### 4. Con miras a una Nueva Constitución
+1. identificar artículos donde se habla de estas industrias
+2. cuál es el problema de estas industrias en la constitución?
+3. comparar con otras constituciones
+4. cómo intentar resolver los conflictos socioambientales con la nueva constitución
+
 ### Corrección 9/Noviembre 
 Nivel de extracción de las zonas, relacionado con la producción y desarrollo con esa misma zona. 
            
