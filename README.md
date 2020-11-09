@@ -68,4 +68,8 @@ Chile es atravesado por muchas condiciones climáticas diferentes, lo que result
 
 ### Corrección 9/Noviembre 
 Nivel de extracción de las zonas, relacionado con la producción y desarrollo con esa misma zona. 
+Revisar la descripción de industria extractivista, (inocua), 
+Ejemplo de https://graphics.reuters.com/CALIFORNIA-WILDFIRES/xegvboxrypq/index.html
+Buscar también en https://es.datachile.io/geo/chile#economy
+
            
