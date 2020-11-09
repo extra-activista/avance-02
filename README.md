@@ -8,11 +8,13 @@ def: Corresponden a un tipo de apropiación de recursos naturales en grandes vol
 
 Es incorrecto referirse a “industrias extractivas”, ya que en ellos no hay una transformación industrial; no se elaboran productos manufacturados y lo que se exportan son materias primas (también denominados como commodities). [(E. Gudynas, 2018)](http://gudynas.com/wp-content/uploads/GudynasExtractivismosConceptoViolenciasFuhem18.pdf)
 
+Cómo se define y defiende el trabajo extractivista en la Constitución del 90
+
 Identificar empresas extractivistas x recursos y visualizar en un mapa de Chile. Agregar territorios en conflicto con esas empresas/industrias.
 
 #### Referencias: 
-1. [LAS INDUSTRIAS EXTRACTIVAS Y SUS IMPLICACIONES POLÍTICAS Y ECONÓMICAS](https://scielo.conicyt.cl/pdf/rei/v45n174/art04.pdf)
-2. [La Agenda de la Sociedad Civil frente a las Industrias Extractivas en Chile](https://redextractivas.org/wp-content/uploads/2017/08/Reporte-Chile.pdf)
+- [LAS INDUSTRIAS EXTRACTIVAS Y SUS IMPLICACIONES POLÍTICAS Y ECONÓMICAS](https://scielo.conicyt.cl/pdf/rei/v45n174/art04.pdf)
+- [La Agenda de la Sociedad Civil frente a las Industrias Extractivas en Chile](https://redextractivas.org/wp-content/uploads/2017/08/Reporte-Chile.pdf)
 
 ### 2. Impacto económico general de la industria
 1. Cuánto tributan las empresas al PIB nacional
@@ -22,14 +24,18 @@ Identificar empresas extractivistas x recursos y visualizar en un mapa de Chile.
 #### Referencias
 - 
 
-### 3. Extractivismo x territorio
+### 3. Extractivismo x territorio [(mapa de conflictos INDH)](https://bibliotecadigital.indh.cl/bitstream/handle/123456789/478/mapa-conflictos.pdf?sequence=4)
 Chile es atravesado por muchas condiciones climáticas diferentes, lo que resulta en un territorio muy rico en biodiversidad nativada y de recursos naturales, cada territorio posee características específicas, que permiten en desarrollo industrial según recursos naturales. 
 
+(Buscar las agrupaciones que forman parte del MAT, para mapearlas según a qué empresa "resisten" y en qué territorios.)
+
 #### Zona Norte
-1. identificar industrias extrctivistas: Minería, 
+1. identificar industrias extrctivistas: [Minería](https://www.sonami.cl/mapaminero/)
+2. Zonas en conflicto:  
 
 #### Zona Centro
-1. industria: Minería, Zonas de sacrificio (que no es una industria, es un resultado)
+1. industria: Minería, Energía
+2. Zonas de sacrificio (que no es una industria, es un resultado)
 
 #### Zona Sur
 1. industrias: Forestal, Pesca (Salmoneras), Energía
