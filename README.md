@@ -30,15 +30,25 @@ Chile es atravesado por muchas condiciones climáticas diferentes, lo que result
 (Buscar las agrupaciones que forman parte del MAT, para mapearlas según a qué empresa "resisten" y en qué territorios.)
 
 #### Zona Norte
-1. identificar industrias extrctivistas: [Minería](https://www.sonami.cl/mapaminero/)
-2. Zonas en conflicto:  
+1. Industrias extractivistas: [Minería](https://www.sonami.cl/mapaminero/) y identificar nombres de las empresas
+2. Impacto económico y retribución al territorio
+3. Zonas en conflicto: Calama, Copiapó, 
+3.1 (organizaciones en resistencia)
+4. Territorios indígenas: 
 
 #### Zona Centro
 1. industria: Minería, Energía
-2. Zonas de sacrificio (que no es una industria, es un resultado)
+2. imapcto económico: 
+3. Zonas en conflicto: de sacrificio
+3.1 organizaciones en resitencia
+4. Territorios indígenas: 
 
 #### Zona Sur
-1. industrias: Forestal, Pesca (Salmoneras), Energía
+1. industria: Forestal, Pesca (Salmoneras), Energía (Represas e Hidroeléctricas)
+2. imapcto económico: 
+3. Zonas en conflicto: 
+3.1 organizaciones en resitencia
+4. Territorios indígenas: 
 
 ### Conflictos socioambientales
 1. [Extractivas en transformación por la resistencia territorial en Chile: Giro 3 V (Verdes, Veraces y Valorativas)](https://scielo.conicyt.cl/pdf/polis/v16n48/0718-6568-polis-16-48-00291.pdf)
