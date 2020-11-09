@@ -1,7 +1,7 @@
 # avance-02
 
 ## Delimitación del tema 
-radiografía de la industria extractivista en Chile: definiciones, producción, impactos, conflictos socioambientales adjuntos
+radiografía de la industria extractivista en Chile: definiciones, producción, impactos, conflictos socioambientales y Nueva Constitución.
 
 ### Extractivismo
 Corresponden a un tipo de apropiación de recursos naturales en grandes volúmenes y/o la alta intensidad, donde la mitad o más son exportados como materias primas, sin procesamiento industrial o procesamientos limitados. 
