@@ -65,10 +65,11 @@ Chile es atravesado por muchas condiciones climáticas diferentes, lo que result
 2. cuál es el problema de estas industrias en la constitución?
 3. comparar con otras constituciones
 4. cómo intentar resolver los conflictos socioambientales con la nueva constitución
+5. incorporar  una pregunta abierta ( ?) como cierre para un analisis 
 
 ### Corrección 9/Noviembre 
 - Nivel de extracción de las zonas, relacionado con la producción y desarrollo con esa misma zona. 
-- Revisar la descripción de industria extractivista, (inocua), 
+- Revisar la descripción de industria extractivista, (inocua), an 
 - Ejemplo de https://graphics.reuters.com/CALIFORNIA-WILDFIRES/xegvboxrypq/index.html
 - Buscar también en https://es.datachile.io/geo/chile#economy
 
