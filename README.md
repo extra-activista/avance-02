@@ -23,6 +23,8 @@ Identificar empresas extractivistas x recursos y visualizar en un mapa de Chile.
 2. para dimensionar, comparar tributación con el sueldo mínimo en Chile
 3. 
 
+![boceto2](https://github.com/extra-activista/avance-02/blob/main/img/punto%202_Mesa%20de%20trabajo%201.png)
+
 #### Referencias
 - 
 
@@ -52,7 +54,9 @@ Chile es atravesado por muchas condiciones climáticas diferentes, lo que result
 3.1 organizaciones en resitencia
 4. Territorios indígenas: 
 
-### Conflictos socioambientales
+![boceto3](https://github.com/extra-activista/avance-02/blob/main/img/punto%203_Mesa%20de%20trabajo%201_Mesa%20de%20trabajo%201.png)
+
+### Referencias
 1. [Extractivas en transformación por la resistencia territorial en Chile: Giro 3 V (Verdes, Veraces y Valorativas)](https://scielo.conicyt.cl/pdf/polis/v16n48/0718-6568-polis-16-48-00291.pdf)
 2. Observación: no todo los territorios en conflicto son territorios indígenas, considerar para la gráfica (usar íconos)
 
