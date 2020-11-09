@@ -12,4 +12,4 @@ Es incorrecto referirse a “industrias extractivas”, ya que en ellos no hay u
 
 ### Extractivismo x recurso
 ### Corrección 9/Noviembre 
-omo el extrastivismo limita a las personas de la zona 
+Nivel de extracción de las zonas, relacionado con la producción y desarrollo con esa misma zona 
