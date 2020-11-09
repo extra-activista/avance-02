@@ -15,15 +15,19 @@ Chile es atravesado por muchas condiciones climáticas diferentes, lo que result
 
 #### Zona Norte
 Minería:
+
 Energía: 
 
 #### Zona Centro
 Minería:
+
 Zonas de sacrificio:
 
 #### Zona Sur
 Forestal:
+
 Pesca: 
+
 Energía: 
 
 ### Corrección 9/Noviembre 
