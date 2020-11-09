@@ -12,7 +12,7 @@ Cómo se define y defiende el trabajo extractivista en la Constitución del 90
 
 Identificar empresas extractivistas x recursos y visualizar en un mapa de Chile. Agregar territorios en conflicto con esas empresas/industrias.
 
-![boceto1]: https://github.com/extra-activista/avance-02/blob/main/img/punto%201_Mesa%20de%20trabajo%201.png
+![boceto1]: (https://github.com/extra-activista/avance-02/blob/main/img/punto%201_Mesa%20de%20trabajo%201.png)
 
 #### Referencias: 
 - [LAS INDUSTRIAS EXTRACTIVAS Y SUS IMPLICACIONES POLÍTICAS Y ECONÓMICAS](https://scielo.conicyt.cl/pdf/rei/v45n174/art04.pdf)
