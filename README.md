@@ -50,9 +50,10 @@ Chile es atravesado por muchas condiciones climáticas diferentes, lo que result
 3.1 organizaciones en resitencia
 4. Territorios indígenas: 
 
-#### Referencias 
+### Conflictos socioambientales
 1. [Extractivas en transformación por la resistencia territorial en Chile: Giro 3 V (Verdes, Veraces y Valorativas)](https://scielo.conicyt.cl/pdf/polis/v16n48/0718-6568-polis-16-48-00291.pdf)
 2. Observación: no todo los territorios en conflicto son territorios indígenas, considerar para la gráfica (usar íconos)
 
 ### Corrección 9/Noviembre 
-Nivel de extracción de las zonas, relacionado con la producción y desarrollo con esa misma zona      
+Nivel de extracción de las zonas, relacionado con la producción y desarrollo con esa misma zona. 
+           
