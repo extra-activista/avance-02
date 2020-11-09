@@ -11,4 +11,4 @@ Es incorrecto referirse a “industrias extractivas”, ya que en ellos no hay u
 [(E. Gudynas, 2018)](http://gudynas.com/wp-content/uploads/GudynasExtractivismosConceptoViolenciasFuhem18.pdf)
 
 ### Extractivismo x recurso
-## Como el extrastivismo limita a las personas de la zona 
+# Como el extrastivismo limita a las personas de la zona 
