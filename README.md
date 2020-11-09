@@ -56,7 +56,7 @@ Chile es atravesado por muchas condiciones climáticas diferentes, lo que result
 
 ![boceto3](https://github.com/extra-activista/avance-02/blob/main/img/punto%203_Mesa%20de%20trabajo%201_Mesa%20de%20trabajo%201.png)
 
-### Referencias
+#### Referencias
 1. [Extractivas en transformación por la resistencia territorial en Chile: Giro 3 V (Verdes, Veraces y Valorativas)](https://scielo.conicyt.cl/pdf/polis/v16n48/0718-6568-polis-16-48-00291.pdf)
 2. Observación: no todo los territorios en conflicto son territorios indígenas, considerar para la gráfica (usar íconos)
 
